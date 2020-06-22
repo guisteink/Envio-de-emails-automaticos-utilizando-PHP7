@@ -6,6 +6,7 @@ Obs: Para uso do STMP host da google (gmail), siga as seguintes instruções na 
   3.	Procure na página a opção “Acesso a app menos seguro” e ative.
 
 # Layout
+![01](https://user-images.githubusercontent.com/39563063/85319909-a422e380-b498-11ea-958e-ac6f98079006.png)
 
 # Tecnologias
   - PHP 7
